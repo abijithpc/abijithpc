@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: @btwitzabiii
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am From a Non IT Background
+- ⚡ Fun fact: I am from a Non IT Background
 
 <!---
 abijithpc/abijithpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
