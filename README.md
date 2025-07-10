@@ -16,12 +16,31 @@
 
 ---
 
-### 🌟 Tech Stack
+🌟 Tech Stack
+⚙️ Framework & Language
+Flutter • Dart
 
-- ⚙️ Flutter • Dart  
-- ☁️ Firebase (Auth, Firestore, Storage)  
-- 🧠 Bloc & Clean Architecture  
-- 💻 Git & GitHub  
+☁️ Backend & Cloud
+Firebase (Authentication, Firestore, Storage, Realtime DB)
+RESTful API Integration
+
+🧠 State Management
+Bloc • Cubit • Provider • Riverpod • GetX
+
+💾 Local Storage
+Hive • Sqflite • SharedPreferences
+
+🛠 Architecture
+Clean Architecture • MVVM • Layered Structure
+
+🎨 UI/UX
+Responsive Design • Material UI • Custom Widgets
+
+🔧 Dev Tools
+Git • GitHub • Postman • Firebase Console • VS Code • Android Studio
+
+📱 Platforms
+Android • iOS • Web (Flutter Web) 
 
 ---
 
