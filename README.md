@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Abijith+PC+👋;Flutter+Developer+from+Kerala!;Welcome+to+my+GitHub+💻" alt="Typing SVG" />
 </h1>
@@ -13,19 +12,12 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-Name: Abijith PC
-Location: Kottayam, Kerala 🇮🇳
-From: Non-IT → Flutter Dev 🚀
-Passion: Building real-world apps that make an impact
-Focus: Flutter • Firebase • Clean Architecture
+## 👨‍💻 About Me
 
 ✨ A passionate Flutter developer from Kerala  
 🌱 Learning every day, building every night  
 🔥 Self-taught, BroCamp-trained, and growth-focused  
-🛠️ Projects built with Bloc, Firebase, and clean layered architecture
+🛠️ Projects built with **Bloc**, **Firebase**, and **Clean Architecture**
 
 ---
 
@@ -46,7 +38,7 @@ Focus: Flutter • Firebase • Clean Architecture
 
 ## 📱 Projects Snapshot
 
-### 🔹 FocusFlow — *Smart To-Do App*
+### 🔹 [FocusFlow](https://github.com/abijithpc/focusflow) — *Smart To-Do App*
 - 📌 Flutter + Firebase + Bloc  
 - 📌 Task tracking, editing, deleting, real-time sync  
 - 📌 Clean UI + Clean Architecture  
