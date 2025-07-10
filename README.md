@@ -28,7 +28,7 @@
 ### 📫 Let's Connect!
 
 - 📷 Instagram: [@btwitzabiii](https://instagram.com/btwitzabiii)
-- 💼 LinkedIn: [@Abijith PC](linkedin.com/in/abijith-pc-276942220)
+- 💼 LinkedIn: [@ABIJITH PC](https://www.linkedin.com/in/abijith-pc-276942220/)
 - 🌐 Portfolio: *Coming soon...*
 
 ---
